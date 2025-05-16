@@ -33,3 +33,5 @@ elif choice == '4':
     print("Result:", divide(num1, num2))
 else:
     print("Invalid input")
+
+print("tested!")
